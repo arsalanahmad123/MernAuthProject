@@ -1,2 +1,0 @@
-# MernAuthProject
-Mern Auth Project 
