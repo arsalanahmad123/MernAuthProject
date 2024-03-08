@@ -16,6 +16,7 @@ connectDB();
 // testing homepage for api 
 
 app.use('/api/v2', authRoute);
+app.get('/', (req,res) => { res.send('Hello World') })
 
 
 
